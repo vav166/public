@@ -1,0 +1,25 @@
+set nocompatible
+set history=100
+set ruler
+set showcmd
+set hlsearch
+set shiftwidth=4
+set tabstop=4
+set expandtab
+set smartindent
+set smarttab
+set wildmenu
+set number
+syntax on
+
+set tabpagemax=25
+
+set foldcolumn=10
+set foldmethod=indent
+
+set encoding=utf8
+set fileformat=unix
+
+set showbreak=->\ 
+set linebreak
+
