@@ -1,2 +1,3 @@
 # public
- shared stuff
+
+My scripts and configs
